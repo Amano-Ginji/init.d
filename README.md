@@ -1,2 +1,1 @@
 # init.d
-# init.d
